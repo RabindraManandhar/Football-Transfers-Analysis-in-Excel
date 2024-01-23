@@ -16,3 +16,9 @@ Create a table showing the total number of football transfers in and out of Euro
 3.	Lastly, subtract total transfers outgoing from total transfers incoming to get Net Transfers during the two seasons.
 
     The SUMIFS function in Excel is used to sum values based on multiple criteria. It allows you to specify multiple conditions, and it adds up the values that meet all the specified         criteria.
+
+#### Football data_Task3 – Analyze European Transfers by Country
+Create another table listing the net transfer movements for each European country during the 2021/2022 and 2022/2023 seasons. Include the number of transfers and the total cost, giving you a clearer picture of how money moves around in European football transfers.
+1.	To perform this analysis using excel functions, add a new sheet and rename it to ‘European Transfers by Country’. Create a table as asked in question.
+ 
+2.	Use ‘SUMIFS’ function as in Task2 to get the total number of football transfers as well as total club-to-club compensation in Europe during two seasons.
